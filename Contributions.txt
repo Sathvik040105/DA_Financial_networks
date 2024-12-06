@@ -1,0 +1,10 @@
+Contribution: Names of Contributors    (GitHub usernames mentioned at name's first occurrence)
+
+Research and Ideation: Ishaq (IshaqHamza)
+Data Sourcing: Rohit (irenicquasar), Ishaq
+Trade Database Construction: Nagasai (Nagasai561)
+Data Engineering: Nagasai, Shankar (OmegaSun18)
+Community Generation Code: Rohit, Sathvik (Sathvik040105)
+Stock Communities Visualization: Sathvik, Rohit, Nagasai
+Trade Communities Visualization: Rohit
+Inference: Ishaq
