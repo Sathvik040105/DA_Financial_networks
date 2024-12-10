@@ -66,13 +66,13 @@ We can see it is able to correctly identify various sectors in NIFTY as communit
 
 ## Contributions
 
-| **Contribution**               | **Names of Contributors**                          | **GitHub Usernames**            |
-|--------------------------------|---------------------------------------------------|----------------------------------|
-| **Research and Ideation**      | Ishaq                                            | IshaqHamza                      |
-| **Data Sourcing**              | Rohit, Ishaq                                     | irenicquasar, IshaqHamza        |
-| **Trade Database Construction**| Nagasai                                         | Nagasai561                      |
-| **Data Engineering**           | Nagasai, Shankar                                 | Nagasai561, OmegaSun18          |
-| **Community Generation Code**  | Rohit, Sathvik                                   | irenicquasar, Sathvik040105     |
-| **Stock Communities Visualization** | Sathvik, Rohit, Nagasai                     | Sathvik040105, irenicquasar, Nagasai561 |
-| **Trade Communities Visualization** | Rohit                                     | irenicquasar                    |
-| **Inference**                  | Ishaq                                            | IshaqHamza                      |
+| **Contribution**               | **Contributors**                          |
+|--------------------------------|---------------------------------------------------|
+| **Research and Ideation**      | [Ishaq](https://github.com/IshaqHamza)| 
+| **Data Sourcing**              | [Rohit](https://github.com/irenicquasar), [Ishaq](https://github.com/IshaqHamza)|
+| **Trade Database Construction**| [Nagasai](https://github.com/Nagasai561) |
+| **Data Engineering**           | [Nagasai](https://github.com/Nagasai561), [Shankar](https://github.com/OmegaSun18) |
+| **Community Generation Code**  | [Rohit](https://github.com/irenicquasar), [Sathvik](https://github.com/Sathvik040105) |
+| **Stock Communities Visualization** | [Sathvik](https://github.com/Sathvik040105), [Rohit](https://github.com/irenicquasar), [Nagasai](https://github.com/Nagasai561)|
+| **Trade Communities Visualization** | [Rohit](https://github.com/irenicquasar)|
+| **Inference**                  | [Ishaq](https://github.com/IshaqHamza)       |
