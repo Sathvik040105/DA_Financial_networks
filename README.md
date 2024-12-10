@@ -63,3 +63,16 @@ Dendogram for communities obtained
 graph of communities visualized
 
 We can see it is able to correctly identify various sectors in NIFTY as communities. 
+
+## Contributions
+
+| **Contribution**               | **Names of Contributors**                          | **GitHub Usernames**            |
+|--------------------------------|---------------------------------------------------|----------------------------------|
+| **Research and Ideation**      | Ishaq                                            | IshaqHamza                      |
+| **Data Sourcing**              | Rohit, Ishaq                                     | irenicquasar, IshaqHamza        |
+| **Trade Database Construction**| Nagasai                                         | Nagasai561                      |
+| **Data Engineering**           | Nagasai, Shankar                                 | Nagasai561, OmegaSun18          |
+| **Community Generation Code**  | Rohit, Sathvik                                   | irenicquasar, Sathvik040105     |
+| **Stock Communities Visualization** | Sathvik, Rohit, Nagasai                     | Sathvik040105, irenicquasar, Nagasai561 |
+| **Trade Communities Visualization** | Rohit                                     | irenicquasar                    |
+| **Inference**                  | Ishaq                                            | IshaqHamza                      |
