@@ -3,7 +3,7 @@
 ## Community detection in Trade Data
 ### Overview
 
-This project analyzes international trade relationships using network analysis and community detection algorithms to identify trading blocks and patterns.
+This project analyzes international trade relationships using network analysis and community detection algorithms to identify trading blocs and patterns.
 
 The code implements:
 - Country name standardization between different data sources
